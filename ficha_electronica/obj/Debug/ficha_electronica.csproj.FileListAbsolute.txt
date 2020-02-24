@@ -1,0 +1,369 @@
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\bin\Debug\ficha_electronica.exe.config
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\bin\Debug\ficha_electronica.exe
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\bin\Debug\ficha_electronica.pdb
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Form1.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Properties.Resources.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.csproj.GenerateResource.cache
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.csproj.CoreCompileInputs.cache
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.exe
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.pdb
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.buscar_paciente.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Crear_paciente.resources
+\\VBOXSVR\carpeta_compartida_win7\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+\\VBOXSVR\carpeta_compartida_win7\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.exe
+\\VBOXSVR\carpeta_compartida_win7\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\bin\Debug\ficha_electronica.exe.config
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\bin\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\bin\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.buscar_paciente.resources
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Crear_paciente.resources
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Eva_corporal.resources
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Eva_Depilacion.resources
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Eva_Facial.resources
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Form1.resources
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Properties.Resources.resources
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.csproj.GenerateResource.cache
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.csproj.CoreCompileInputs.cache
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\bin\Debug\ficha_electronica.exe.config
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\bin\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\bin\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.buscar_paciente.resources
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Crear_paciente.resources
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Eva_corporal.resources
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Eva_Depilacion.resources
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Eva_Facial.resources
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Form1.resources
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.Properties.Resources.resources
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.csproj.GenerateResource.cache
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.csproj.CoreCompileInputs.cache
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha electronica\FICHA ELECTRONICA_V2\FICHA ELECTRONICA\FICHA ELECTRONICA_V2\ficha_electronica\ficha_electronica\obj\Debug\ficha_electronica.pdb
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\bin\Debug\ficha_electronica.exe.config
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\bin\Debug\ficha_electronica.exe
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\bin\Debug\ficha_electronica.pdb
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.buscar_paciente.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.Crear_paciente.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.Eva_corporal.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Depilacion.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Facial.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.Form1.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.Properties.Resources.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.csproj.GenerateResource.cache
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CoreCompileInputs.cache
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.exe
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.pdb
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.Cuadro_dialogo1.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_pacientes.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_ttos.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 30092018\ficha_electronica\obj\Debug\ficha_electronica.Asistencia_Paciente.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\bin\Debug\ficha_electronica.exe.config
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\bin\Debug\ficha_electronica.exe
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\bin\Debug\ficha_electronica.pdb
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Asistencia_Paciente.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.buscar_paciente.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Crear_paciente.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Cuadro_dialogo1.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_corporal.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Depilacion.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Facial.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Form1.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Properties.Resources.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_pacientes.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_ttos.resources
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.GenerateResource.cache
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CoreCompileInputs.cache
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.exe
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.pdb
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\bin\Debug\TransControl_src.dll
+C:\Users\3568513\Documents\persnl\usek\TESIS\TESIS FINAL 2DO SEM\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CopyComplete
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\bin\Debug\ficha_electronica.exe.config
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\bin\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\bin\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Asistencia_Paciente.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.buscar_paciente.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Crear_paciente.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Cuadro_dialogo1.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_corporal.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Depilacion.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Facial.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Form1.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Properties.Resources.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_pacientes.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_ttos.resources
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.GenerateResource.cache
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CoreCompileInputs.cache
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CopyComplete
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha_electronica 08102018\ficha_electronica\obj\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.exe.config
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Asistencia_Paciente.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.buscar_paciente.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Crear_paciente.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Cuadro_dialogo1.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_corporal.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Depilacion.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Facial.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Form1.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Properties.Resources.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_pacientes.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_ttos.resources
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.GenerateResource.cache
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CoreCompileInputs.cache
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CopyComplete
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha_09122018 string_conn\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.exe.config
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Asistencia_Paciente.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.buscar_paciente.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Crear_paciente.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Cuadro_dialogo1.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_corporal.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Depilacion.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Facial.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Form1.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Properties.Resources.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_pacientes.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_ttos.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.GenerateResource.cache
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CoreCompileInputs.cache
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CopyComplete
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Evaluacion.resources
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\EnvDTE.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\stdole.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.MSXML.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_12122018 string_conn modificado\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Form_Rep_Pcte.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Asistencia_Paciente.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.buscar_paciente.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Crear_paciente.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Cuadro_dialogo1.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Evaluacion.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_corporal.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Depilacion.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Facial.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Form1.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Form_Rep_Pcte.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Properties.Resources.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_pacientes.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_ttos.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.GenerateResource.cache
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CoreCompileInputs.cache
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.exe.config
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\EnvDTE.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\stdole.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.MSXML.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CopyComplete
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Inicio_Filect.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn modificado - copia\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.ModPaciente.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.exe.config
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ficha_electronica.pdb
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\EnvDTE.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\stdole.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\Microsoft.MSXML.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csprojAssemblyReference.cache
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Asistencia_Paciente.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.buscar_paciente.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Crear_paciente.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Cuadro_dialogo1.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Evaluacion.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_corporal.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Depilacion.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Eva_Facial.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Form1.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Form_Rep_Pcte.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Inicio_Filect.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.ModPaciente.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Properties.Resources.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_pacientes.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.Reporte_ttos.resources
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.GenerateResource.cache
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CoreCompileInputs.cache
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.csproj.CopyComplete
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.exe
+C:\Users\winmac\Desktop\ficha_16122018_OK string_conn V2\ficha_electronica 14102018\ficha_electronica\obj\Debug\ficha_electronica.pdb
