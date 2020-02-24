@@ -1,8 +1,8 @@
 # ficha-electronica
-Ficha Electronica 
+
 
 Ficha Electronica para Centro de Estetica.
-Proyecto realizado realizado con windows form en c# y SQL Server 2014
+Proyecto realizado con windows form en c# y SQL Server 2014
 
 Pantalla de Inicio
 
